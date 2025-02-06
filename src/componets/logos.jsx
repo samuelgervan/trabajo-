@@ -1,6 +1,6 @@
 import reactLogo from '../assets/react.svg'
 import viteLogo from '/vite.svg'
-export const logos =()=> {
+export const Logos =()=> {
 
     return <div>
     <a href="https://vite.dev" target="_blank">
